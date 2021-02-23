@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class main {
      public static void main(String[] args){
+            System.out.println("primer cambio");
             System.out.println("seleccione la operación a realizar 1:suma 2:resta 3: multiplicar 4:dividir");
             Scanner teclado;
             teclado = new Scanner(System.in);
