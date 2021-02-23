@@ -14,6 +14,7 @@ public class calculadora {
     }
     public int suma(){
         int result=num1+num2;
+        System.out.println("segundo commit para la suma");
         return result;
     }
     public int resta(){
